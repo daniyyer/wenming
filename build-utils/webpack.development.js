@@ -6,7 +6,7 @@ module.exports = () => ({
     openPage: "common/homepage.html",
     open: true,
     // hot: true,
-    //   host: '0.0.0.0',
+      host: '192.168.50.38',
     port: 9001,
     watchOptions: {
       aggregateTimeout: 2000,

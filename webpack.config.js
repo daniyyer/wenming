@@ -188,10 +188,7 @@ module.exports = (
               from: "./src/assets2/js/plugins/jquery-qqface/gif",
               to: "assets2/images/qqFace-gif",
             },
-            {
-              from: "./src/assets2/images/meeting/enterUnit",
-              to: "assets2/images/meeting/enterUnit",
-            },
+
           ],
         }),
       ],

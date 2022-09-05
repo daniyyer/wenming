@@ -1,1 +1,27 @@
 @charset "UTF-8";
+
+.tc{
+  text-align:center;
+}
+.swiper{
+  width:100%;
+  margin:auto;
+  height:270px;
+}
+.swiper-slide{
+  text-align: center;
+  background:white;
+}
+.img-container{
+  height:200px;
+
+  img{
+    max-height:100%;
+    max-width:100%;
+  }
+}
+.h3{
+  font-weight: bold;
+  margin-top:.5em;
+  margin-bottom:0.3em;
+}
