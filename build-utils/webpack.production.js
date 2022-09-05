@@ -95,6 +95,16 @@ module.exports = (env, setHash) => {
           ? "assets2/css/" + "[name].[contenthash:8].css"
           : "assets2/css/" + "[name].css",
       }),
+      {
+        apply: (compiler) => {
+          compiler.hooks.done.tap('DonePlugin', (stats) => {
+            console.log('Compile is done !')
+            setTimeout(() => {
+              process.exit(0)
+            })
+          });
+        }
+      }
     ],
     module: {
       rules: [
