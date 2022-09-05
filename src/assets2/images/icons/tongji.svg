@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <g id="修改" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="后台图标" transform="translate(-1294.000000, -224.000000)" fill-rule="nonzero">
+            <g id="统计" transform="translate(1294.000000, 224.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="60" height="60"></rect>
+                <path d="M31,30 L31,5 C44.2569789,6.19718623 54.8028138,16.7430211 56,30 L31,30 L31,30 Z M51,34.0441031 L28.0530939,34.0441031 C26.8956726,34.0441031 25.9573198,33.1058029 25.9573198,31.9483289 C25.9573198,31.9483289 25.9573198,31.9483289 25.9573198,31.9483289 L25.9573198,9 C14.2100444,10.0603503 5,19.9230152 5,31.9469061 C5,44.6791727 15.3235677,55 28.0530939,55 C40.0769848,55 49.9409145,45.7927487 51,34.0439977 L51,34.0441031 Z" id="形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

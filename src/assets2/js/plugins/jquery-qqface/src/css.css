@@ -1,0 +1,26 @@
+.jquery-qqface {
+  position: absolute;
+  display: none;
+  width: 418px;
+  height: 163px;
+  padding: 5px;
+  overflow: hidden;
+  background: #fff;
+  border: 3px solid #e5e5e5;
+}
+.jquery-qqface-layer {
+  position: relative;
+  z-index: 1;
+  width: 406px;
+  height: 163px;
+  background: #fff;
+  cursor: pointer;
+}
+.jquery-qqface-layer i {
+  display: block;
+  float: left;
+  width: 26px;
+  height: 26px;
+  margin: -1px 0 0 -1px;
+  border: 1px solid #ccc;
+}

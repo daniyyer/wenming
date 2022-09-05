@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g id="技联在线3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1首页" transform="translate(-519.000000, -4540.000000)" fill-rule="nonzero">
+            <g id="箭头1" transform="translate(519.000000, 4540.000000)">
+                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <path d="M15.1936627,6.54770466 L15.1936627,17.3412986 L22.4846954,11.9444537 L15.1936627,6.54770466 Z M10.0837592,8.98447652 L14.3212542,8.98447652 L14.3212542,14.9668365 L10.0837592,14.9668365 L10.0837592,8.98447652 L10.0837592,8.98447652 Z M5.72162074,8.98447652 L8.58818121,8.98447652 L8.58818121,14.9668365 L5.72162074,14.9668365 L5.72162074,8.98447652 L5.72162074,8.98447652 Z M1.48412576,8.98447652 L3.60287325,8.98447652 L3.60287325,14.9668365 L1.48412576,14.9668365 L1.48412576,8.98447652 Z" id="形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
