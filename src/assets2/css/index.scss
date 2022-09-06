@@ -6,22 +6,26 @@
 .swiper{
   width:100%;
   margin:auto;
-  height:270px;
+  height:570px;
 }
 .swiper-slide{
   text-align: center;
   background:white;
 }
 .img-container{
-  height:200px;
+  height:480px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 
   img{
     max-height:100%;
     max-width:100%;
+    margin-bottom:15px;
   }
 }
 .h3{
   font-weight: bold;
-  margin-top:.5em;
-  margin-bottom:0.3em;
+  margin-top:1em;
+  margin-bottom:1em;
 }
